@@ -17,6 +17,11 @@ The project files and folders are organized as follows:
 root                    (project root folder)
 +-- jumper              (source code for game)
   +-- game              (specific classes)
+    +-- director          (class)  
+    +-- guesser           (class)
+    +-- parachute         (class)
+    +-- terminal_service  (class)
+    +-- word_generator    (class)
   +-- __main__.py       (program entry point)
 +-- README.md           (general info)
 ```
@@ -25,10 +30,10 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
-Logan Andrus lbandrus@byui.edu
-Keeley Imlah wil11070@byui.edu
-Felipe Valencia fevacla@byui.edu
-Kathryn Thompson thompson21057@byui.edu
-Morgan Luke morganluke@byui.edu
+*Logan Andrus lbandrus@byui.edu
+*Keeley Imlah wil11070@byui.edu
+*Felipe Valencia fevacla@byui.edu
+*Kathryn Thompson thompson21057@byui.edu
+*Morgan Luke morganluke@byui.edu
 
-Team 9 CSE-210 Winter 2022
+*Team 9 CSE-210 Winter 2022
