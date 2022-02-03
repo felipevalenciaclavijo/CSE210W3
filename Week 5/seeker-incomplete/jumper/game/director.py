@@ -1,7 +1,7 @@
-from terminal_service import TerminalService
-from guesser import Guesser
-from word_generator import Word_generator
-from parachute import Parachute
+from game.terminal_service import TerminalService
+from game.guesser import Guesser
+from game.word_generator import Word_generator
+from game.parachute import Parachute
 
 
 class Director:
